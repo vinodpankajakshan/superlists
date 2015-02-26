@@ -1,2 +1,4 @@
 db.sqlite3
 migrations/
+.c9/
+env/
